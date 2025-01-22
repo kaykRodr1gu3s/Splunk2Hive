@@ -1,0 +1,22 @@
+event_code,event_description
+4625,Failed Logon Attempt
+4624,Successful Logon
+4648,Logon with Explicit Credentials
+4675,SID History Added to an Account
+4720,User Account Created
+4726,User Account Deleted
+4732,Member Added to Local Security Group
+4740,Account Locked Out
+4672,Special Privileges Assigned to a Logon
+4697,Service Installed on the System
+4688,Process Creation
+4698,Scheduled Task Created
+7045,New Service Installation
+5156,Allowed Network Connection
+5158,Bind to Local Port
+4663,Attempted Access to Object
+4670,Object Permissions Changed
+1102,Audit Log Cleared
+4719,Audit Policy Changed
+7030,Service Marked as Interactive
+7040,Service Start Type Changed
